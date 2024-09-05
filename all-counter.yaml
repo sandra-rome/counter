@@ -10,3 +10,4 @@ spec:
     - ./counter-app/service/api/catalog-info.yaml
     - ./counter-app/service/library/catalog-info.yaml
     - ./counter-app/service/db/catalog-info.yaml
+    - ./counter-app/users/users.yaml
